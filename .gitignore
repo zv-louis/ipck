@@ -1,0 +1,10 @@
+# venv
+venv/
+venv
+
+# test snapshot
+snapshot/
+
+# setting
+.vscode/
+
